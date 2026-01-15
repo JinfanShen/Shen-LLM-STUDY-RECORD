@@ -26,6 +26,7 @@
 
 --classifier_demo.ipynb:使用transformers库实现基础的文本分类训练推理过程。
 
+<<<<<<< HEAD
 --Dataset.ipynb:使用Datasets库方法。
 
 --load_cmrc2018.py：读取cmrc2018数据集的实现。Datasets库新版本不支持scripts,所以在该文件中尝试from_list导入。
