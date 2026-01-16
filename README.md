@@ -30,6 +30,8 @@
 --Dataset.ipynb:使用Datasets库方法。
 
 --load_cmrc2018.py：读取cmrc2018数据集的实现。Datasets库新版本不支持scripts,所以在该文件中尝试from_list导入。
+
+--Evaluate.py:使用evaluate库的方式
 参考资料或使用的数据集：
 1. https://www.bilibili.com/video/BV18T411t7h6
 2. https://github.com/SophonPlus/ChineseNlpCorpus
