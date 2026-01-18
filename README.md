@@ -17,7 +17,9 @@
 
 参考资料：
 1. https://yuanchaofa.com/post/hands-on-rope-position-embedding.
-## Transformers库的使用
+## Transformers
+Transformers库的基本使用：
+
 --model.ipynb:使用transformers库的model方法。
 
 --pipeline.ipynb:使用transformers库的pipeline方法。
@@ -40,3 +42,13 @@
 4. https://huggingface.co/datasets/madao33/new-title-chinese
 5. cmrc2018数据集是从第一个B站UP主github下载 我也没找到原始地点
 6. https://huggingface.co/docs/transformers/trainer
+
+## Transformers_NLP
+基于Transformers的NLP实现示例：
+
+--Transformers显存优化.ipynb:优化显存的4种方式。
+
+--命名实体识别任务.ipynb: 实现NER任务
+
+参考资料或使用的数据集：
+1. https://www.bilibili.com/video/BV18T411t7h6
