@@ -54,5 +54,7 @@ Transformers库的基本使用：
 
 --机器阅读理解的滑动窗口实现.ipynb: 用滑动窗口实现阅读理解任务
 
+--多项选择任务.ipynb: 实现多项选择任务
+
 参考资料或使用的数据集：
 1. https://www.bilibili.com/video/BV18T411t7h6
