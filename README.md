@@ -56,5 +56,8 @@ Transformers库的基本使用：
 
 --多项选择任务.ipynb: 实现多项选择任务
 
+-- 文本相似度.ipynb: 基于交互策略实现文本相似度任务
+
 参考资料或使用的数据集：
 1. https://www.bilibili.com/video/BV18T411t7h6
+2. https://github.com/CLUEbenchmark/SimCLUE/tree/main?tab=readme-ov-file
