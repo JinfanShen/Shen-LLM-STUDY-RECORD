@@ -56,12 +56,16 @@ Transformers库的基本使用：
 
 --多项选择任务.ipynb: 实现多项选择任务
 
--- 文本相似度.ipynb: 基于交互策略实现文本相似度任务
+--文本相似度.ipynb: 基于交互策略实现文本相似度任务
+
+--基于向量匹配的文本相似度.ipynb: 基于向量匹配实现文本相似度任务
+
+--检索对话机器人.ipynb: 实现检索对话机器人（基于向量匹配）
 
 参考资料或使用的数据集：
 1. https://www.bilibili.com/video/BV18T411t7h6
 2. https://github.com/CLUEbenchmark/SimCLUE/tree/main?tab=readme-ov-file
-   
+3. https://github.com/SophonPlus/ChineseNlpCorpus?tab=readme-ov-file
 
 
 ## MOE
